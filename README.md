@@ -62,7 +62,7 @@ The final step of the DTM evaluation is fitting the surface spline to grid point
 Then spline points are used to remove the terrain effect of cleaned ROI points.
 
 ##### Deterrained field
-![alt text](https://github.com/michalp0lak/PointCloud_field_analyzer/blob/master/readme_images/detrendim.tiff?raw=true)
+![alt text](https://github.com/michalp0lak/PointCloud_field_analyzer/blob/master/readme_images/deterrained_field.tiff?raw=true)
 
 ```
 **terrain_evaluator_Parameters**
