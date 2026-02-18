@@ -31,7 +31,7 @@ for manual ROI localization.
 ```
 
 
-![alt text](https://github.com/UPOL-Plant-phenotyping-research-group/UAV-crop-analyzer/blob/main/readme_images/ROI.png?raw=true)
+![alt text](https://github.com/michalp0lak/PointCloud_field_analyzer/blob/master/readme_images/ROI.png?raw=true)
 
 ### 2. Terrain adjustment
 
